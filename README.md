@@ -1,6 +1,6 @@
 <div align="center">
 
-# Food Inventory & Restaurant Operations
+![Food inventory and restaurant operations](cover.svg)
 
 **Restaurant operations, organized in one interface.**
 
@@ -9,8 +9,6 @@
 [Portfolio](https://vekeshportfolio.lovable.app/) · [Developer profile](https://github.com/Vekesh04)
 
 </div>
-
-> **Publication status:** Documentation is published. The cleaned React source is prepared and awaiting upload.
 
 ## Overview
 
@@ -68,7 +66,7 @@ The menu loads from `public/indian_food.csv`; ingredient calculations and storag
 
 ## Prototype boundaries
 
-This uploaded version uses browser local/session storage, including the helper named `cloudStorage`; it is not a deployed cloud database. Payment records and administrator authentication are demonstration workflows. The public demo admin password is `demo-admin-only` (see `AdminLogin.tsx` for the demo username). Do not use real payment or customer data. Some initial stock and rating values are generated for demonstration. No trained forecasting model is included in this archive.
+This uploaded version uses browser local/session storage, including the helper named `cloudStorage`; it is not a deployed cloud database. Payment records and administrator authentication are demonstration workflows. To exercise the local demo admin flow, copy `.env.example` to `.env` and set `VITE_DEMO_ADMIN_PASSWORD` to your own disposable demo value. Vite variables are visible to browser clients, so this is not production authentication. Do not use real payment or customer data. Some initial stock and rating values are generated for demonstration. No trained forecasting model is included in this archive.
 
 ## Author
 

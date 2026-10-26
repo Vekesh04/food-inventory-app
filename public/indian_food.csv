@@ -1,0 +1,279 @@
+name,ingredients,diet,prep_time,cook_time,flavor_profile,course,state,region
+Butter Chicken,"Chicken 500g, Butter 50g, Tomato 200g, Cream 100ml, Garam Masala 10g, Garlic 20g, Ginger 15g",non vegetarian,20,30,spicy,main course,Delhi,North
+Dal Makhani,"Black Lentils 200g, Kidney Beans 50g, Butter 30g, Cream 50ml, Tomato 100g, Onion 80g, Cumin 5g",vegetarian,15,45,spicy,main course,Punjab,North
+Chicken Tikka,"Chicken 400g, Yogurt 100ml, Garam Masala 8g, Garlic 15g, Ginger 10g, Lemon 20ml",non vegetarian,30,20,spicy,starter,Punjab,North
+Palak Paneer,"Spinach 300g, Paneer 200g, Onion 100g, Tomato 80g, Garlic 15g, Ginger 10g, Cumin 5g",vegetarian,15,25,spicy,main course,Punjab,North
+Biryani,"Rice 300g, Chicken 400g, Onion 150g, Yogurt 100ml, Saffron 2g, Cardamom 5g, Cinnamon 3g",non vegetarian,45,60,spicy,main course,Hyderabad,South
+Dosa,"Rice 200g, Urad Dal 100g, Fenugreek 5g, Salt 3g",vegetarian,480,15,sour,main course,Karnataka,South
+Idli,"Rice 150g, Urad Dal 75g, Fenugreek 3g, Salt 2g",vegetarian,480,20,sour,breakfast,Tamil Nadu,South
+Sambar,"Toor Dal 150g, Tamarind 20g, Drumstick 100g, Okra 80g, Tomato 60g, Turmeric 3g, Coriander 5g",vegetarian,10,30,sour,main course,Tamil Nadu,South
+Rasam,"Tamarind 25g, Tomato 100g, Turmeric 2g, Black Pepper 3g, Cumin 3g, Coriander 4g, Curry Leaves 2g",vegetarian,5,20,sour,soup,Tamil Nadu,South
+Pav Bhaji,"Potato 200g, Cauliflower 100g, Peas 80g, Tomato 150g, Onion 100g, Butter 40g, Pav Bread 4pieces",vegetarian,20,25,spicy,snack,Maharashtra,West
+Vada Pav,"Potato 150g, Gram Flour 100g, Green Chili 10g, Ginger 8g, Mustard Seeds 3g, Curry Leaves 2g, Pav Bread 1piece",vegetarian,15,20,spicy,snack,Maharashtra,West
+Dhokla,"Gram Flour 200g, Yogurt 50ml, Ginger 10g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 2g, Eno 5g",vegetarian,10,25,sweet,snack,Gujarat,West
+Fish Curry,"Fish 400g, Coconut 100g, Tamarind 15g, Turmeric 3g, Red Chili 8g, Mustard Seeds 3g, Curry Leaves 2g",non vegetarian,15,30,spicy,main course,West Bengal,East
+Rasgulla,"Milk 500ml, Lemon Juice 30ml, Sugar 200g, Cardamom 3g",vegetarian,10,45,sweet,dessert,West Bengal,East
+Gulab Jamun,"Milk Powder 150g, Flour 50g, Ghee 30g, Sugar 200g, Cardamom 3g, Rose Water 10ml",vegetarian,15,30,sweet,dessert,Rajasthan,North
+Kheer,"Rice 100g, Milk 500ml, Sugar 100g, Cardamom 3g, Almonds 20g, Pistachios 15g",vegetarian,5,45,sweet,dessert,Punjab,North
+Samosa,"Flour 200g, Potato 150g, Peas 50g, Cumin 3g, Coriander 5g, Oil 100ml",vegetarian,30,20,spicy,snack,Uttar Pradesh,North
+Chole,"Chickpeas 200g, Onion 100g, Tomato 80g, Ginger 10g, Garlic 15g, Garam Masala 8g, Cumin 5g",vegetarian,480,30,spicy,main course,Punjab,North
+Aloo Gobi,"Potato 200g, Cauliflower 200g, Onion 80g, Tomato 60g, Turmeric 3g, Cumin 5g, Coriander 4g",vegetarian,15,25,spicy,main course,Punjab,North
+Tandoori Roti,"Wheat Flour 200g, Water 100ml, Salt 3g, Oil 10ml",vegetarian,10,15,bitter,bread,Punjab,North
+Rogan Josh,"Mutton 500g, Yogurt 100ml, Onion 150g, Tomato 100g, Garam Masala 10g, Red Chili 8g, Ginger 15g",non vegetarian,30,90,spicy,main course,Kashmir,North
+Seekh Kebab,"Mutton Mince 400g, Onion 100g, Ginger 15g, Garlic 20g, Green Chili 10g, Coriander 10g, Cumin 5g",non vegetarian,20,25,spicy,starter,Uttar Pradesh,North
+Malai Kofta,"Paneer 200g, Potato 150g, Cashews 50g, Cream 100ml, Tomato 150g, Onion 100g, Garam Masala 8g",vegetarian,25,30,spicy,main course,Punjab,North
+Bhindi Masala,"Okra 300g, Onion 100g, Tomato 80g, Ginger 10g, Garlic 15g, Turmeric 3g, Coriander 5g",vegetarian,15,20,spicy,main course,Rajasthan,North
+Kadai Chicken,"Chicken 500g, Bell Pepper 150g, Onion 100g, Tomato 100g, Ginger 15g, Garlic 20g, Garam Masala 10g",non vegetarian,20,35,spicy,main course,Punjab,North
+Paneer Tikka,"Paneer 300g, Yogurt 100ml, Bell Pepper 100g, Onion 100g, Ginger 10g, Garlic 15g, Garam Masala 8g",vegetarian,30,20,spicy,starter,Punjab,North
+Mutton Curry,"Mutton 500g, Onion 150g, Tomato 100g, Yogurt 100ml, Ginger 15g, Garlic 20g, Garam Masala 10g",non vegetarian,25,75,spicy,main course,Uttar Pradesh,North
+Chicken Curry,"Chicken 500g, Onion 150g, Tomato 100g, Yogurt 80ml, Ginger 15g, Garlic 20g, Turmeric 5g",non vegetarian,20,40,spicy,main course,Punjab,North
+Aloo Paratha,"Wheat Flour 200g, Potato 200g, Onion 50g, Green Chili 5g, Ginger 5g, Coriander 10g, Ghee 30g",vegetarian,20,15,spicy,bread,Punjab,North
+Rajma,"Kidney Beans 200g, Onion 100g, Tomato 80g, Ginger 10g, Garlic 15g, Cumin 5g, Garam Masala 8g",vegetarian,480,30,spicy,main course,Punjab,North
+Chicken Biryani,"Chicken 400g, Basmati Rice 300g, Onion 150g, Yogurt 100ml, Saffron 2g, Mint 20g, Coriander 20g",non vegetarian,45,60,spicy,main course,Hyderabad,South
+Mutton Biryani,"Mutton 400g, Basmati Rice 300g, Onion 150g, Yogurt 100ml, Saffron 2g, Mint 20g, Garam Masala 10g",non vegetarian,50,90,spicy,main course,Lucknow,North
+Prawn Curry,"Prawns 400g, Coconut Milk 200ml, Onion 100g, Tomato 80g, Ginger 10g, Garlic 15g, Curry Leaves 5g",non vegetarian,15,25,spicy,main course,Kerala,South
+Fish Fry,"Fish 400g, Turmeric 5g, Red Chili 8g, Ginger 10g, Garlic 15g, Curry Leaves 5g, Oil 100ml",non vegetarian,15,20,spicy,starter,Kerala,South
+Appam,"Rice 200g, Coconut Milk 150ml, Yeast 5g, Sugar 20g, Salt 3g",vegetarian,480,15,sweet,bread,Kerala,South
+Puttu,"Rice Flour 200g, Coconut 100g, Salt 3g, Water 150ml",vegetarian,10,20,sweet,breakfast,Kerala,South
+Avial,"Mixed Vegetables 400g, Coconut 100g, Yogurt 100ml, Curry Leaves 5g, Green Chili 10g, Ginger 10g",vegetarian,20,25,spicy,main course,Kerala,South
+Kootu,"Lentils 100g, Vegetables 200g, Coconut 50g, Cumin 3g, Curry Leaves 3g, Green Chili 5g",vegetarian,15,25,spicy,main course,Tamil Nadu,South
+Pongal,"Rice 150g, Moong Dal 100g, Ghee 30g, Cashews 20g, Ginger 10g, Curry Leaves 5g, Black Pepper 3g",vegetarian,10,25,spicy,breakfast,Tamil Nadu,South
+Medu Vada,"Urad Dal 200g, Ginger 10g, Green Chili 8g, Curry Leaves 5g, Asafoetida 2g, Salt 5g, Oil 200ml",vegetarian,240,15,spicy,snack,Tamil Nadu,South
+Uttapam,"Rice 150g, Urad Dal 75g, Onion 50g, Tomato 50g, Green Chili 5g, Coriander 10g, Salt 3g",vegetarian,480,20,spicy,breakfast,Tamil Nadu,South
+Masala Dosa,"Rice 200g, Urad Dal 100g, Potato 200g, Onion 100g, Mustard Seeds 3g, Curry Leaves 5g, Turmeric 3g",vegetarian,480,25,spicy,breakfast,Karnataka,South
+Bisi Bele Bath,"Rice 200g, Toor Dal 100g, Mixed Vegetables 200g, Tamarind 20g, Sambar Powder 15g, Ghee 30g",vegetarian,15,35,spicy,main course,Karnataka,South
+Mysore Pak,"Gram Flour 200g, Ghee 200g, Sugar 300g, Cardamom 5g",vegetarian,10,25,sweet,dessert,Karnataka,South
+Rava Kesari,"Semolina 150g, Sugar 200g, Ghee 50g, Cashews 20g, Raisins 15g, Saffron 2g, Cardamom 3g",vegetarian,5,20,sweet,dessert,Karnataka,South
+Pesarattu,"Green Moong Dal 200g, Rice 50g, Ginger 10g, Green Chili 8g, Cumin 3g, Salt 5g",vegetarian,240,20,spicy,breakfast,Andhra Pradesh,South
+Gongura Mutton,"Mutton 500g, Gongura Leaves 200g, Onion 100g, Red Chili 10g, Ginger 15g, Garlic 20g, Oil 50ml",non vegetarian,20,60,sour,main course,Andhra Pradesh,South
+Hyderabadi Haleem,"Mutton 300g, Wheat 100g, Lentils 150g, Onion 200g, Ginger 20g, Garlic 25g, Garam Masala 10g",non vegetarian,60,180,spicy,main course,Telangana,South
+Double Ka Meetha,"Bread 8slices, Milk 500ml, Sugar 150g, Ghee 50g, Almonds 30g, Pistachios 20g, Cardamom 5g",vegetarian,20,30,sweet,dessert,Telangana,South
+Qubani Ka Meetha,"Dried Apricots 200g, Sugar 100g, Almonds 30g, Cream 100ml",vegetarian,240,20,sweet,dessert,Telangana,South
+Litti Chokha,"Wheat Flour 200g, Sattu 150g, Onion 100g, Tomato 150g, Garlic 20g, Green Chili 10g, Mustard Oil 30ml",vegetarian,30,45,spicy,main course,Bihar,East
+Thukpa,"Noodles 200g, Chicken 300g, Vegetables 200g, Ginger 15g, Garlic 20g, Soy Sauce 20ml, Chili Sauce 15ml",non vegetarian,20,30,spicy,soup,Sikkim,North East
+Momos,"Flour 200g, Chicken Mince 300g, Onion 100g, Ginger 10g, Garlic 15g, Soy Sauce 15ml, Green Chili 8g",non vegetarian,45,20,spicy,snack,Sikkim,North East
+Gundruk,"Fermented Leafy Greens 200g, Onion 50g, Tomato 50g, Ginger 10g, Garlic 15g, Green Chili 8g, Oil 20ml",vegetarian,10,20,sour,side dish,Sikkim,North East
+Bamboo Shoot Curry,"Bamboo Shoots 300g, Pork 200g, Onion 100g, Ginger 15g, Garlic 20g, Green Chili 10g, Oil 30ml",non vegetarian,15,40,spicy,main course,Assam,North East
+Masor Tenga,"Fish 400g, Tomato 150g, Elephant Apple 100g, Onion 80g, Ginger 10g, Turmeric 5g, Mustard Oil 30ml",non vegetarian,15,25,sour,main course,Assam,North East
+Khar,"Raw Papaya 200g, Taro 100g, Bottle Gourd 100g, Banana Peel Ash 10g, Onion 50g, Ginger 10g",vegetarian,20,30,bitter,main course,Assam,North East
+Pitha,"Rice Flour 200g, Jaggery 100g, Coconut 100g, Sesame Seeds 30g, Cardamom 3g",vegetarian,30,25,sweet,dessert,Assam,North East
+Jadoh,"Rice 200g, Pork 300g, Onion 100g, Ginger 15g, Turmeric 5g, Black Sesame 20g, Bay Leaves 3g",non vegetarian,20,40,spicy,main course,Meghalaya,North East
+Tungrymbai,"Fermented Soybean 100g, Pork 200g, Onion 80g, Ginger 10g, Green Chili 8g, Garlic 15g",non vegetarian,15,35,spicy,main course,Meghalaya,North East
+Smoked Pork,"Pork 500g, Bamboo Shoots 150g, King Chili 5g, Ginger 15g, Garlic 20g, Onion 100g, Oil 30ml",non vegetarian,30,60,spicy,main course,Nagaland,North East
+Axone,"Fermented Soybean 150g, Pork 200g, Onion 80g, Tomato 60g, Ginger 10g, Green Chili 8g, Oil 25ml",non vegetarian,15,30,spicy,main course,Nagaland,North East
+Eromba,"Fish 200g, Vegetables 200g, King Chili 5g, Onion 80g, Ginger 10g, Fermented Fish 30g",non vegetarian,15,25,spicy,main course,Manipur,North East
+Singju,"Cabbage 150g, Lotus Root 100g, Onion 80g, King Chili 5g, Ginger 10g, Fermented Fish 20g, Lemon 15ml",vegetarian,15,0,spicy,salad,Manipur,North East
+Chak-hao Kheer,"Black Rice 150g, Milk 500ml, Sugar 100g, Cardamom 5g, Cashews 20g, Raisins 15g",vegetarian,10,45,sweet,dessert,Manipur,North East
+Bekti Paturi,"Bekti Fish 400g, Mustard Paste 50g, Coconut 50g, Green Chili 10g, Turmeric 5g, Mustard Oil 30ml",non vegetarian,20,25,spicy,main course,West Bengal,East
+Kosha Mangsho,"Mutton 500g, Onion 200g, Ginger 20g, Garlic 25g, Yogurt 100ml, Garam Masala 10g, Mustard Oil 40ml",non vegetarian,30,90,spicy,main course,West Bengal,East
+Shukto,"Bitter Gourd 100g, Drumstick 100g, Brinjal 100g, Sweet Potato 100g, Milk 100ml, Panch Phoron 5g",vegetarian,15,25,bitter,main course,West Bengal,East
+Chingri Malai Curry,"Prawns 400g, Coconut Milk 200ml, Onion 100g, Ginger 15g, Green Chili 10g, Turmeric 5g, Mustard Oil 30ml",non vegetarian,15,20,spicy,main course,West Bengal,East
+Mishti Doi,"Milk 500ml, Jaggery 100g, Cardamom 3g",vegetarian,10,60,sweet,dessert,West Bengal,East
+Sandesh,"Chhena 300g, Sugar 100g, Cardamom 3g, Pistachios 20g",vegetarian,30,15,sweet,dessert,West Bengal,East
+Rosogolla,"Chhena 300g, Sugar 200g, Cardamom 3g, Rose Water 10ml",vegetarian,30,30,sweet,dessert,West Bengal,East
+Ras Malai,"Chhena 300g, Milk 500ml, Sugar 150g, Cardamom 5g, Pistachios 20g, Saffron 2g",vegetarian,45,45,sweet,dessert,West Bengal,East
+Chhena Poda,"Chhena 400g, Sugar 150g, Semolina 50g, Cardamom 5g, Cashews 30g, Raisins 20g",vegetarian,30,60,sweet,dessert,Odisha,East
+Dalma,"Toor Dal 150g, Vegetables 300g, Ginger 10g, Turmeric 5g, Cumin 3g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,15,30,spicy,main course,Odisha,East
+Pakhala,"Rice 200g, Water 500ml, Yogurt 100ml, Salt 5g, Ginger 10g, Green Chili 5g, Curry Leaves 3g",vegetarian,480,5,sour,main course,Odisha,East
+Machha Jhola,"Fish 400g, Potato 150g, Onion 100g, Tomato 80g, Ginger 15g, Turmeric 5g, Mustard Oil 30ml",non vegetarian,15,25,spicy,main course,Odisha,East
+Khichdi,"Rice 150g, Moong Dal 100g, Ghee 30g, Cumin 3g, Ginger 10g, Turmeric 3g, Salt 5g",vegetarian,10,25,spicy,main course,Gujarat,West
+Handvo,"Rice 100g, Lentils 100g, Vegetables 200g, Yogurt 100ml, Ginger 15g, Green Chili 10g, Sesame Seeds 20g",vegetarian,240,45,spicy,snack,Gujarat,West
+Khandvi,"Gram Flour 150g, Yogurt 200ml, Ginger 10g, Green Chili 8g, Turmeric 3g, Mustard Seeds 3g, Sesame Seeds 10g",vegetarian,15,20,spicy,snack,Gujarat,West
+Undhiyu,"Mixed Vegetables 500g, Sweet Potato 150g, Purple Yam 100g, Green Beans 100g, Coconut 50g, Jaggery 30g",vegetarian,30,45,sweet,main course,Gujarat,West
+Thepla,"Wheat Flour 200g, Fenugreek Leaves 100g, Yogurt 50ml, Ginger 10g, Green Chili 8g, Turmeric 3g, Oil 30ml",vegetarian,20,20,spicy,bread,Gujarat,West
+Dhokla,"Gram Flour 200g, Yogurt 100ml, Ginger 15g, Green Chili 10g, Eno 5g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,15,25,sweet,snack,Gujarat,West
+Fafda,"Gram Flour 200g, Turmeric 3g, Carom Seeds 3g, Oil 100ml, Salt 5g",vegetarian,30,20,spicy,snack,Gujarat,West
+Khakhra,"Wheat Flour 200g, Oil 30ml, Salt 5g, Turmeric 3g, Red Chili 3g, Cumin 3g",vegetarian,20,30,spicy,snack,Gujarat,West
+Basundi,"Milk 1000ml, Sugar 150g, Cardamom 5g, Almonds 30g, Pistachios 20g, Saffron 2g",vegetarian,10,90,sweet,dessert,Gujarat,West
+Shrikhand,"Yogurt 500ml, Sugar 100g, Cardamom 5g, Saffron 2g, Almonds 20g, Pistachios 15g",vegetarian,240,10,sweet,dessert,Maharashtra,West
+Puran Poli,"Wheat Flour 200g, Chana Dal 150g, Jaggery 150g, Cardamom 5g, Ghee 50g, Nutmeg 2g",vegetarian,30,30,sweet,dessert,Maharashtra,West
+Misal Pav,"Mixed Sprouts 200g, Onion 100g, Tomato 80g, Coconut 50g, Garam Masala 8g, Pav Bread 4pieces",vegetarian,480,25,spicy,snack,Maharashtra,West
+Bhel Puri,"Puffed Rice 100g, Sev 50g, Onion 80g, Tomato 60g, Coriander 20g, Tamarind Chutney 50ml, Mint Chutney 30ml",vegetarian,15,0,spicy,snack,Maharashtra,West
+Poha,"Flattened Rice 200g, Onion 100g, Potato 100g, Curry Leaves 5g, Mustard Seeds 3g, Turmeric 3g, Peanuts 30g",vegetarian,10,15,spicy,breakfast,Maharashtra,West
+Sabudana Khichdi,"Tapioca Pearls 200g, Peanuts 50g, Potato 100g, Green Chili 8g, Ginger 10g, Curry Leaves 5g, Lemon 15ml",vegetarian,240,15,spicy,snack,Maharashtra,West
+Modak,"Rice Flour 200g, Jaggery 150g, Coconut 100g, Cardamom 5g, Ghee 30g",vegetarian,20,25,sweet,dessert,Maharashtra,West
+Solkadhi,"Kokum 50g, Coconut Milk 200ml, Ginger 10g, Green Chili 5g, Salt 3g, Coriander 10g",vegetarian,10,10,sour,drink,Maharashtra,West
+Vindaloo,"Pork 500g, Vinegar 100ml, Red Chili 15g, Ginger 20g, Garlic 30g, Onion 150g, Jaggery 30g",non vegetarian,30,60,spicy,main course,Goa,West
+Bebinca,"Coconut Milk 400ml, Eggs 10pieces, Sugar 200g, Flour 100g, Ghee 100g, Nutmeg 3g",vegetarian,30,90,sweet,dessert,Goa,West
+Fish Curry Goan,"Fish 400g, Coconut 150g, Tamarind 20g, Red Chili 10g, Turmeric 5g, Onion 100g, Curry Leaves 5g",non vegetarian,15,25,spicy,main course,Goa,West
+Sorpotel,"Pork 300g, Pork Liver 200g, Vinegar 50ml, Red Chili 10g, Ginger 15g, Garlic 20g, Onion 100g",non vegetarian,30,45,spicy,main course,Goa,West
+Xacuti,"Chicken 500g, Coconut 100g, Red Chili 8g, Coriander Seeds 10g, Cumin 5g, Poppy Seeds 15g, Onion 150g",non vegetarian,25,40,spicy,main course,Goa,West
+Feni,"Cashew Fruit 1000g, Water 500ml",non vegetarian,1440,240,bitter,drink,Goa,West
+Prawn Balchao,"Prawns 400g, Vinegar 80ml, Red Chili 12g, Ginger 15g, Garlic 25g, Onion 100g, Jaggery 20g",non vegetarian,20,30,spicy,side dish,Goa,West
+Ros Omelette,"Eggs 4pieces, Onion 100g, Tomato 80g, Green Chili 8g, Coriander 15g, Bread 4slices, Curry 200ml",non vegetarian,10,15,spicy,breakfast,Goa,West
+Chicken Cafreal,"Chicken 500g, Coriander 50g, Mint 30g, Green Chili 15g, Ginger 20g, Garlic 25g, Lime 30ml",non vegetarian,30,35,spicy,main course,Goa,West
+Sannas,"Rice 200g, Coconut 100g, Toddy 100ml, Sugar 30g, Salt 3g",vegetarian,480,20,sweet,bread,Goa,West
+Chicken 65,"Chicken 500g, Yogurt 100ml, Red Chili 10g, Ginger Garlic Paste 20g, Corn Flour 30g, Curry Leaves 5g, Oil 200ml",non vegetarian,30,15,spicy,starter,Tamil Nadu,South
+Mutton Korma,"Mutton 500g, Onion 200g, Cashews 50g, Yogurt 100ml, Garam Masala 10g, Saffron 2g, Ghee 50g",non vegetarian,25,75,spicy,main course,Uttar Pradesh,North
+Chicken Shawarma,"Chicken 500g, Yogurt 100ml, Lemon 30ml, Garlic 20g, Cumin 5g, Paprika 5g, Pita Bread 4pieces",non vegetarian,60,20,spicy,snack,Delhi,North
+Keema Pav,"Mutton Mince 400g, Onion 150g, Tomato 100g, Ginger Garlic Paste 20g, Garam Masala 8g, Pav Bread 4pieces",non vegetarian,15,30,spicy,snack,Maharashtra,West
+Chicken Lollipop,"Chicken Wings 500g, Corn Flour 50g, Soy Sauce 20ml, Chili Sauce 15ml, Ginger Garlic Paste 15g, Oil 200ml",non vegetarian,20,15,spicy,starter,Delhi,North
+Mutton Seekh Kebab,"Mutton Mince 500g, Onion 100g, Mint 20g, Coriander 20g, Garam Masala 10g, Red Chili 8g",non vegetarian,30,20,spicy,starter,Uttar Pradesh,North
+Chicken Manchurian,"Chicken 500g, Corn Flour 50g, Soy Sauce 30ml, Tomato Sauce 20ml, Ginger Garlic Paste 20g, Spring Onion 50g",non vegetarian,20,20,spicy,starter,Delhi,North
+Fish Tikka,"Fish 500g, Yogurt 100ml, Ginger Garlic Paste 20g, Red Chili 8g, Turmeric 5g, Lemon 20ml",non vegetarian,30,15,spicy,starter,Punjab,North
+Prawn Fry,"Prawns 500g, Turmeric 5g, Red Chili 10g, Ginger Garlic Paste 15g, Curry Leaves 5g, Oil 100ml",non vegetarian,15,10,spicy,starter,Kerala,South
+Mutton Rogan Josh,"Mutton 600g, Yogurt 150ml, Onion 200g, Tomato 100g, Kashmiri Red Chili 10g, Fennel Powder 5g",non vegetarian,30,90,spicy,main course,Kashmir,North
+Chicken Handi,"Chicken 500g, Onion 150g, Tomato 100g, Cream 100ml, Cashews 50g, Garam Masala 8g",non vegetarian,20,35,spicy,main course,Punjab,North
+Fish Koliwada,"Fish 500g, Gram Flour 100g, Rice Flour 50g, Red Chili 8g, Ginger Garlic Paste 15g, Oil 200ml",non vegetarian,20,15,spicy,starter,Maharashtra,West
+Mutton Kasha,"Mutton 500g, Onion 200g, Ginger 20g, Garlic 25g, Bay Leaves 3g, Cinnamon 5g, Mustard Oil 40ml",non vegetarian,25,80,spicy,main course,West Bengal,East
+Chicken Rezala,"Chicken 500g, Yogurt 150ml, Cashews 50g, Poppy Seeds 30g, Green Chili 10g, Ginger 15g",non vegetarian,30,40,spicy,main course,West Bengal,East
+Prawn Malai Curry,"Prawns 500g, Coconut Milk 250ml, Onion 100g, Ginger 15g, Green Chili 8g, Turmeric 5g",non vegetarian,15,20,spicy,main course,West Bengal,East
+Fish Amritsari,"Fish 500g, Gram Flour 100g, Carom Seeds 3g, Red Chili 8g, Ginger Garlic Paste 15g, Oil 200ml",non vegetarian,30,15,spicy,starter,Punjab,North
+Mutton Nihari,"Mutton 600g, Wheat Flour 50g, Ginger Garlic Paste 30g, Red Chili 10g, Garam Masala 10g, Ghee 50g",non vegetarian,60,180,spicy,main course,Delhi,North
+Chicken Changezi,"Chicken 500g, Tomato 200g, Cashews 50g, Cream 100ml, Garam Masala 8g, Red Chili 8g",non vegetarian,25,35,spicy,main course,Delhi,North
+Fish Curry Kerala,"Fish 500g, Coconut 150g, Tamarind 20g, Red Chili 10g, Turmeric 5g, Curry Leaves 10g",non vegetarian,15,25,spicy,main course,Kerala,South
+Mutton Pepper Fry,"Mutton 500g, Black Pepper 10g, Onion 150g, Curry Leaves 10g, Coconut Oil 30ml, Ginger 15g",non vegetarian,20,45,spicy,main course,Kerala,South
+Chicken Chettinad,"Chicken 500g, Coconut 100g, Red Chili 15g, Coriander Seeds 10g, Fennel Seeds 5g, Curry Leaves 10g",non vegetarian,25,35,spicy,main course,Tamil Nadu,South
+Prawn Gassi,"Prawns 500g, Coconut 150g, Tamarind 15g, Red Chili 10g, Turmeric 5g, Kokum 20g",non vegetarian,15,20,spicy,main course,Karnataka,South
+Fish Caldine,"Fish 500g, Coconut Milk 200ml, Green Chili 10g, Ginger 15g, Turmeric 5g, Kokum 15g",non vegetarian,15,20,spicy,main course,Goa,West
+Mutton Ghee Roast,"Mutton 500g, Ghee 100g, Red Chili 15g, Garlic 30g, Tamarind 10g, Jaggery 20g",non vegetarian,30,60,spicy,main course,Karnataka,South
+Chicken Sukka,"Chicken 500g, Coconut 100g, Red Chili 12g, Coriander Seeds 8g, Onion 150g, Curry Leaves 10g",non vegetarian,20,30,spicy,main course,Karnataka,South
+Prawn Koliwada,"Prawns 500g, Gram Flour 80g, Rice Flour 40g, Red Chili 8g, Ginger Garlic Paste 15g, Oil 200ml",non vegetarian,20,10,spicy,starter,Maharashtra,West
+Fish Recheado,"Fish 500g, Red Chili 20g, Garlic 50g, Ginger 20g, Tamarind 15g, Vinegar 30ml",non vegetarian,60,20,spicy,main course,Goa,West
+Mutton Xacuti,"Mutton 500g, Coconut 100g, Red Chili 12g, Coriander Seeds 10g, Poppy Seeds 15g, Onion 150g",non vegetarian,30,75,spicy,main course,Goa,West
+Chicken Saagwala,"Chicken 500g, Spinach 400g, Onion 100g, Tomato 80g, Ginger Garlic Paste 20g, Cream 50ml",non vegetarian,20,35,spicy,main course,Punjab,North
+Prawn Pepper Fry,"Prawns 500g, Black Pepper 8g, Onion 100g, Curry Leaves 8g, Coconut Oil 25ml, Ginger 12g",non vegetarian,15,15,spicy,starter,Kerala,South
+Fish Moilee,"Fish 500g, Coconut Milk 250ml, Green Chili 8g, Ginger 15g, Turmeric 3g, Curry Leaves 8g",non vegetarian,15,20,spicy,main course,Kerala,South
+Mutton Keema Curry,"Mutton Mince 500g, Onion 150g, Tomato 100g, Peas 100g, Ginger Garlic Paste 20g, Garam Masala 8g",non vegetarian,15,30,spicy,main course,Uttar Pradesh,North
+Chicken Kali Mirch,"Chicken 500g, Black Pepper 10g, Onion 100g, Yogurt 100ml, Ginger Garlic Paste 15g, Cream 50ml",non vegetarian,20,30,spicy,main course,Punjab,North
+Prawn Biryani,"Prawns 400g, Basmati Rice 300g, Onion 150g, Yogurt 100ml, Saffron 2g, Mint 20g",non vegetarian,45,50,spicy,main course,Hyderabad,South
+Fish Biryani,"Fish 400g, Basmati Rice 300g, Onion 150g, Yogurt 100ml, Saffron 2g, Mint 20g",non vegetarian,40,45,spicy,main course,Kerala,South
+Mutton Dum Biryani,"Mutton 500g, Basmati Rice 400g, Onion 200g, Yogurt 150ml, Saffron 3g, Mint 30g",non vegetarian,60,90,spicy,main course,Hyderabad,South
+Chicken Dum Biryani,"Chicken 500g, Basmati Rice 400g, Onion 200g, Yogurt 150ml, Saffron 3g, Mint 30g",non vegetarian,50,70,spicy,main course,Hyderabad,South
+Egg Biryani,"Eggs 8pieces, Basmati Rice 300g, Onion 150g, Yogurt 100ml, Saffron 2g, Mint 20g",vegetarian,30,40,spicy,main course,Hyderabad,South
+Vegetable Biryani,"Mixed Vegetables 400g, Basmati Rice 300g, Onion 150g, Yogurt 100ml, Saffron 2g, Mint 20g",vegetarian,35,45,spicy,main course,Hyderabad,South
+Paneer Biryani,"Paneer 300g, Basmati Rice 300g, Onion 150g, Yogurt 100ml, Saffron 2g, Mint 20g",vegetarian,40,50,spicy,main course,Punjab,North
+Mushroom Biryani,"Mushrooms 400g, Basmati Rice 300g, Onion 150g, Yogurt 100ml, Saffron 2g, Mint 20g",vegetarian,35,45,spicy,main course,Hyderabad,South
+Keema Biryani,"Mutton Mince 400g, Basmati Rice 300g, Onion 150g, Yogurt 100ml, Saffron 2g, Mint 20g",non vegetarian,45,60,spicy,main course,Lucknow,North
+Chicken Pulao,"Chicken 400g, Basmati Rice 300g, Onion 100g, Whole Spices 10g, Ghee 30g, Saffron 1g",non vegetarian,30,40,spicy,main course,Delhi,North
+Mutton Pulao,"Mutton 400g, Basmati Rice 300g, Onion 100g, Whole Spices 10g, Ghee 30g, Saffron 1g",non vegetarian,35,60,spicy,main course,Delhi,North
+Vegetable Pulao,"Mixed Vegetables 300g, Basmati Rice 300g, Onion 100g, Whole Spices 8g, Ghee 25g",vegetarian,25,30,spicy,main course,Delhi,North
+Jeera Rice,"Basmati Rice 300g, Cumin Seeds 5g, Bay Leaves 2g, Ghee 20g, Salt 5g",vegetarian,5,20,spicy,main course,North India,North
+Coconut Rice,"Rice 300g, Coconut 150g, Mustard Seeds 3g, Curry Leaves 5g, Green Chili 5g, Oil 20ml",vegetarian,10,25,sweet,main course,South India,South
+Lemon Rice,"Rice 300g, Lemon 50ml, Mustard Seeds 3g, Curry Leaves 5g, Turmeric 3g, Oil 20ml",vegetarian,10,20,sour,main course,South India,South
+Tamarind Rice,"Rice 300g, Tamarind 30g, Red Chili 8g, Mustard Seeds 3g, Curry Leaves 5g, Oil 25ml",vegetarian,15,25,sour,main course,South India,South
+Curd Rice,"Rice 300g, Yogurt 200ml, Mustard Seeds 3g, Curry Leaves 3g, Ginger 5g, Salt 3g",vegetarian,10,20,sour,main course,South India,South
+Tomato Rice,"Rice 300g, Tomato 200g, Onion 100g, Ginger Garlic Paste 15g, Red Chili 5g, Oil 25ml",vegetarian,15,25,spicy,main course,South India,South
+Mint Rice,"Rice 300g, Mint 100g, Onion 100g, Ginger Garlic Paste 15g, Green Chili 8g, Oil 25ml",vegetarian,15,25,spicy,main course,South India,South
+Spinach Rice,"Rice 300g, Spinach 200g, Onion 100g, Ginger Garlic Paste 15g, Green Chili 5g, Oil 25ml",vegetarian,15,25,spicy,main course,South India,South
+Ghee Rice,"Basmati Rice 300g, Ghee 50g, Whole Spices 8g, Onion 50g, Cashews 20g, Raisins 15g",vegetarian,10,25,sweet,main course,South India,South
+Saffron Rice,"Basmati Rice 300g, Saffron 3g, Milk 100ml, Ghee 30g, Sugar 20g, Cashews 20g",vegetarian,15,30,sweet,main course,North India,North
+Kashmiri Pulao,"Basmati Rice 300g, Dry Fruits 50g, Saffron 2g, Milk 50ml, Ghee 30g, Sugar 15g",vegetarian,20,35,sweet,main course,Kashmir,North
+Tehri,"Rice 300g, Potato 200g, Cauliflower 150g, Peas 100g, Whole Spices 8g, Ghee 25g",vegetarian,20,30,spicy,main course,Uttar Pradesh,North
+Bisi Bele Huliyanna,"Rice 200g, Toor Dal 100g, Vegetables 250g, Tamarind 25g, Sambar Powder 20g, Ghee 40g",vegetarian,20,40,spicy,main course,Karnataka,South
+Vangi Bath,"Rice 300g, Brinjal 300g, Tamarind 20g, Sambar Powder 15g, Peanuts 30g, Oil 30ml",vegetarian,20,30,spicy,main course,Karnataka,South
+Chitranna,"Rice 300g, Lemon 40ml, Turmeric 5g, Mustard Seeds 3g, Curry Leaves 5g, Peanuts 25g",vegetarian,10,20,sour,main course,Karnataka,South
+Bagala Bath,"Rice 300g, Yogurt 200ml, Coconut 50g, Green Chili 8g, Ginger 10g, Curry Leaves 5g",vegetarian,15,25,sour,main course,Karnataka,South
+Akki Rotti,"Rice Flour 200g, Onion 100g, Coconut 50g, Coriander 20g, Green Chili 8g, Oil 30ml",vegetarian,15,20,spicy,bread,Karnataka,South
+Neer Dosa,"Rice 200g, Coconut 100g, Salt 3g, Water 300ml",vegetarian,240,15,sweet,bread,Karnataka,South
+Rava Dosa,"Semolina 150g, Rice Flour 50g, Maida 30g, Onion 50g, Green Chili 5g, Ginger 5g",vegetarian,30,15,spicy,bread,Karnataka,South
+Set Dosa,"Rice 200g, Urad Dal 100g, Fenugreek 3g, Salt 3g",vegetarian,480,20,sour,bread,Karnataka,South
+Mysore Masala Dosa,"Rice 200g, Urad Dal 100g, Red Chili Chutney 50g, Potato 200g, Onion 100g",vegetarian,480,25,spicy,bread,Karnataka,South
+Onion Dosa,"Rice 200g, Urad Dal 100g, Onion 150g, Green Chili 8g, Coriander 15g",vegetarian,480,20,spicy,bread,Karnataka,South
+Cheese Dosa,"Rice 200g, Urad Dal 100g, Cheese 100g, Onion 50g, Tomato 50g",vegetarian,480,20,spicy,bread,Karnataka,South
+Paneer Dosa,"Rice 200g, Urad Dal 100g, Paneer 150g, Onion 50g, Green Chili 5g",vegetarian,480,25,spicy,bread,Karnataka,South
+Schezwan Dosa,"Rice 200g, Urad Dal 100g, Schezwan Sauce 30g, Vegetables 100g, Cheese 50g",vegetarian,480,25,spicy,bread,Karnataka,South
+Chocolate Dosa,"Rice 200g, Urad Dal 100g, Chocolate Spread 50g, Banana 100g, Nuts 30g",vegetarian,480,20,sweet,dessert,Karnataka,South
+Ghee Roast Dosa,"Rice 200g, Urad Dal 100g, Ghee 50g, Red Chili Chutney 30g",vegetarian,480,20,spicy,bread,Karnataka,South
+Paper Dosa,"Rice 200g, Urad Dal 100g, Fenugreek 3g, Salt 3g",vegetarian,480,15,sour,bread,Karnataka,South
+Rava Masala Dosa,"Semolina 150g, Rice Flour 50g, Potato 200g, Onion 100g, Green Chili 8g",vegetarian,30,20,spicy,bread,Karnataka,South
+Wheat Dosa,"Wheat Flour 200g, Rice Flour 50g, Yogurt 100ml, Onion 50g, Green Chili 5g",vegetarian,30,15,spicy,bread,Karnataka,South
+Oats Dosa,"Oats 150g, Rice Flour 50g, Yogurt 100ml, Vegetables 100g, Green Chili 5g",vegetarian,30,15,spicy,bread,Karnataka,South
+Quinoa Dosa,"Quinoa 150g, Rice Flour 50g, Yogurt 100ml, Vegetables 100g, Herbs 20g",vegetarian,240,20,spicy,bread,Karnataka,South
+Millet Dosa,"Millet 150g, Rice Flour 50g, Yogurt 100ml, Onion 50g, Green Chili 5g",vegetarian,240,20,spicy,bread,Karnataka,South
+Adai,"Mixed Lentils 200g, Rice 100g, Red Chili 8g, Asafoetida 2g, Curry Leaves 5g",vegetarian,240,20,spicy,bread,Tamil Nadu,South
+Pesarattu Upma,"Green Moong Dal 200g, Rice 50g, Upma 200g, Ginger 10g, Green Chili 8g",vegetarian,240,25,spicy,breakfast,Andhra Pradesh,South
+Rava Upma,"Semolina 200g, Onion 100g, Tomato 50g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,15,spicy,breakfast,South India,South
+Poha Upma,"Flattened Rice 200g, Onion 100g, Potato 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,15,spicy,breakfast,Maharashtra,West
+Vermicelli Upma,"Vermicelli 200g, Onion 100g, Tomato 50g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,15,spicy,breakfast,South India,South
+Bread Upma,"Bread 8slices, Onion 100g, Tomato 50g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,15,spicy,breakfast,South India,South
+Oats Upma,"Oats 200g, Onion 100g, Vegetables 150g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,15,spicy,breakfast,South India,South
+Quinoa Upma,"Quinoa 200g, Onion 100g, Vegetables 150g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,15,20,spicy,breakfast,South India,South
+Daliya Upma,"Broken Wheat 200g, Onion 100g, Vegetables 150g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,20,spicy,breakfast,North India,North
+Aval Upma,"Flattened Rice 200g, Onion 100g, Coconut 50g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,15,spicy,breakfast,Tamil Nadu,South
+Ragi Upma,"Finger Millet 200g, Onion 100g, Vegetables 150g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,15,25,spicy,breakfast,Karnataka,South
+Barley Upma,"Barley 200g, Onion 100g, Vegetables 150g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,20,30,spicy,breakfast,South India,South
+Foxtail Millet Upma,"Foxtail Millet 200g, Onion 100g, Vegetables 150g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,20,25,spicy,breakfast,South India,South
+Pearl Millet Upma,"Pearl Millet 200g, Onion 100g, Vegetables 150g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,20,30,spicy,breakfast,Rajasthan,North
+Sorghum Upma,"Sorghum 200g, Onion 100g, Vegetables 150g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,25,35,spicy,breakfast,Maharashtra,West
+Buckwheat Upma,"Buckwheat 200g, Onion 100g, Vegetables 150g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,15,20,spicy,breakfast,Himachal Pradesh,North
+Amaranth Upma,"Amaranth 200g, Onion 100g, Vegetables 150g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,15,25,spicy,breakfast,Maharashtra,West
+Mixed Millet Upma,"Mixed Millets 200g, Onion 100g, Vegetables 150g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,20,30,spicy,breakfast,South India,South
+Vegetable Upma,"Semolina 200g, Mixed Vegetables 200g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,15,20,spicy,breakfast,South India,South
+Masala Upma,"Semolina 200g, Onion 100g, Tomato 100g, Garam Masala 5g, Green Chili 8g, Curry Leaves 5g",vegetarian,10,15,spicy,breakfast,South India,South
+Coconut Upma,"Semolina 200g, Coconut 100g, Onion 50g, Green Chili 5g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,15,sweet,breakfast,Kerala,South
+Lemon Upma,"Semolina 200g, Lemon 30ml, Onion 50g, Green Chili 5g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,15,sour,breakfast,South India,South
+Tomato Upma,"Semolina 200g, Tomato 150g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,15,spicy,breakfast,South India,South
+Mint Upma,"Semolina 200g, Mint 50g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,15,spicy,breakfast,South India,South
+Coriander Upma,"Semolina 200g, Coriander 50g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,15,spicy,breakfast,South India,South
+Spinach Upma,"Semolina 200g, Spinach 150g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,15,spicy,breakfast,South India,South
+Carrot Upma,"Semolina 200g, Carrot 150g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,15,spicy,breakfast,South India,South
+Beetroot Upma,"Semolina 200g, Beetroot 150g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,15,spicy,breakfast,South India,South
+Cabbage Upma,"Semolina 200g, Cabbage 150g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,15,spicy,breakfast,South India,South
+Cauliflower Upma,"Semolina 200g, Cauliflower 150g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,15,spicy,breakfast,South India,South
+Peas Upma,"Semolina 200g, Green Peas 150g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,15,spicy,breakfast,South India,South
+Corn Upma,"Semolina 200g, Sweet Corn 150g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,15,spicy,breakfast,South India,South
+Paneer Upma,"Semolina 200g, Paneer 150g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,15,spicy,breakfast,North India,North
+Mushroom Upma,"Semolina 200g, Mushrooms 150g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,15,spicy,breakfast,South India,South
+Capsicum Upma,"Semolina 200g, Capsicum 150g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,15,spicy,breakfast,South India,South
+Brinjal Upma,"Semolina 200g, Brinjal 150g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,15,spicy,breakfast,South India,South
+Okra Upma,"Semolina 200g, Okra 150g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,15,spicy,breakfast,South India,South
+Bottle Gourd Upma,"Semolina 200g, Bottle Gourd 150g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,15,spicy,breakfast,South India,South
+Ridge Gourd Upma,"Semolina 200g, Ridge Gourd 150g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,15,spicy,breakfast,South India,South
+Snake Gourd Upma,"Semolina 200g, Snake Gourd 150g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,15,spicy,breakfast,South India,South
+Ash Gourd Upma,"Semolina 200g, Ash Gourd 150g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,15,spicy,breakfast,South India,South
+Pumpkin Upma,"Semolina 200g, Pumpkin 150g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,15,spicy,breakfast,South India,South
+Sweet Potato Upma,"Semolina 200g, Sweet Potato 150g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,20,spicy,breakfast,South India,South
+Yam Upma,"Semolina 200g, Yam 150g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,20,spicy,breakfast,South India,South
+Taro Root Upma,"Semolina 200g, Taro Root 150g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,25,spicy,breakfast,South India,South
+Plantain Upma,"Semolina 200g, Raw Banana 150g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,20,spicy,breakfast,South India,South
+Jackfruit Upma,"Semolina 200g, Raw Jackfruit 150g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,15,25,spicy,breakfast,South India,South
+Drumstick Upma,"Semolina 200g, Drumstick 150g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,20,spicy,breakfast,South India,South
+Cluster Beans Upma,"Semolina 200g, Cluster Beans 150g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,15,spicy,breakfast,South India,South
+French Beans Upma,"Semolina 200g, French Beans 150g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,15,spicy,breakfast,South India,South
+Broad Beans Upma,"Semolina 200g, Broad Beans 150g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,20,spicy,breakfast,South India,South
+Lima Beans Upma,"Semolina 200g, Lima Beans 150g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,25,spicy,breakfast,South India,South
+Winged Beans Upma,"Semolina 200g, Winged Beans 150g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,15,spicy,breakfast,South India,South
+Ivy Gourd Upma,"Semolina 200g, Ivy Gourd 150g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,15,spicy,breakfast,South India,South
+Pointed Gourd Upma,"Semolina 200g, Pointed Gourd 150g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,15,spicy,breakfast,South India,South
+Bitter Gourd Upma,"Semolina 200g, Bitter Gourd 150g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,15,bitter,breakfast,South India,South
+Radish Upma,"Semolina 200g, Radish 150g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,15,spicy,breakfast,South India,South
+Turnip Upma,"Semolina 200g, Turnip 150g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,20,spicy,breakfast,South India,South
+Kohlrabi Upma,"Semolina 200g, Kohlrabi 150g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,15,spicy,breakfast,South India,South
+Chayote Upma,"Semolina 200g, Chayote 150g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,15,spicy,breakfast,South India,South
+Zucchini Upma,"Semolina 200g, Zucchini 150g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,15,spicy,breakfast,South India,South
+Yellow Squash Upma,"Semolina 200g, Yellow Squash 150g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,15,spicy,breakfast,South India,South
+Acorn Squash Upma,"Semolina 200g, Acorn Squash 150g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,20,spicy,breakfast,South India,South
+Butternut Squash Upma,"Semolina 200g, Butternut Squash 150g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,20,spicy,breakfast,South India,South
+Delicata Squash Upma,"Semolina 200g, Delicata Squash 150g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,20,spicy,breakfast,South India,South
+Hubbard Squash Upma,"Semolina 200g, Hubbard Squash 150g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,25,spicy,breakfast,South India,South
+Kabocha Squash Upma,"Semolina 200g, Kabocha Squash 150g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,20,spicy,breakfast,South India,South
+Patty Pan Squash Upma,"Semolina 200g, Patty Pan Squash 150g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,15,spicy,breakfast,South India,South
+Spaghetti Squash Upma,"Semolina 200g, Spaghetti Squash 150g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,20,spicy,breakfast,South India,South
+Crookneck Squash Upma,"Semolina 200g, Crookneck Squash 150g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,15,spicy,breakfast,South India,South
+Straightneck Squash Upma,"Semolina 200g, Straightneck Squash 150g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,15,spicy,breakfast,South India,South
+Pattypan Squash Upma,"Semolina 200g, Pattypan Squash 150g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,15,spicy,breakfast,South India,South
+Gem Squash Upma,"Semolina 200g, Gem Squash 150g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,20,spicy,breakfast,South India,South
+Honeynut Squash Upma,"Semolina 200g, Honeynut Squash 150g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,20,spicy,breakfast,South India,South
+Red Kuri Squash Upma,"Semolina 200g, Red Kuri Squash 150g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,20,spicy,breakfast,South India,South
+Sugar Pie Pumpkin Upma,"Semolina 200g, Sugar Pie Pumpkin 150g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,20,spicy,breakfast,South India,South
+Cinderella Pumpkin Upma,"Semolina 200g, Cinderella Pumpkin 150g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,25,spicy,breakfast,South India,South
+Fairytale Pumpkin Upma,"Semolina 200g, Fairytale Pumpkin 150g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,25,spicy,breakfast,South India,South
+Jack Be Little Pumpkin Upma,"Semolina 200g, Jack Be Little Pumpkin 150g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,20,spicy,breakfast,South India,South
+Baby Boo Pumpkin Upma,"Semolina 200g, Baby Boo Pumpkin 150g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,20,spicy,breakfast,South India,South
+Cheese Pumpkin Upma,"Semolina 200g, Cheese Pumpkin 150g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,25,spicy,breakfast,South India,South
+Connecticut Field Pumpkin Upma,"Semolina 200g, Connecticut Field Pumpkin 150g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,30,spicy,breakfast,South India,South
+Howden Pumpkin Upma,"Semolina 200g, Howden Pumpkin 150g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,30,spicy,breakfast,South India,South
+Jarrahdale Pumpkin Upma,"Semolina 200g, Jarrahdale Pumpkin 150g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,25,spicy,breakfast,South India,South
+Lumina Pumpkin Upma,"Semolina 200g, Lumina Pumpkin 150g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,25,spicy,breakfast,South India,South
+Marina Di Chioggia Pumpkin Upma,"Semolina 200g, Marina Di Chioggia Pumpkin 150g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,30,spicy,breakfast,South India,South
+Musquee De Provence Pumpkin Upma,"Semolina 200g, Musquee De Provence Pumpkin 150g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,30,spicy,breakfast,South India,South
+Porcelain Doll Pumpkin Upma,"Semolina 200g, Porcelain Doll Pumpkin 150g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,25,spicy,breakfast,South India,South
+Queensland Blue Pumpkin Upma,"Semolina 200g, Queensland Blue Pumpkin 150g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,30,spicy,breakfast,South India,South
+Rouge Vif D'Etampes Pumpkin Upma,"Semolina 200g, Rouge Vif D'Etampes Pumpkin 150g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,30,spicy,breakfast,South India,South
+Triamble Pumpkin Upma,"Semolina 200g, Triamble Pumpkin 150g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,25,spicy,breakfast,South India,South
+Valenciano Pumpkin Upma,"Semolina 200g, Valenciano Pumpkin 150g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,25,spicy,breakfast,South India,South
+Warted Hubbard Pumpkin Upma,"Semolina 200g, Warted Hubbard Pumpkin 150g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,30,spicy,breakfast,South India,South
+White Cushaw Pumpkin Upma,"Semolina 200g, White Cushaw Pumpkin 150g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,25,spicy,breakfast,South India,South
+Winter Luxury Pumpkin Upma,"Semolina 200g, Winter Luxury Pumpkin 150g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,25,spicy,breakfast,South India,South
+Yokohama Pumpkin Upma,"Semolina 200g, Yokohama Pumpkin 150g, Onion 100g, Green Chili 8g, Mustard Seeds 3g, Curry Leaves 5g",vegetarian,10,25,spicy,breakfast,South India,South
